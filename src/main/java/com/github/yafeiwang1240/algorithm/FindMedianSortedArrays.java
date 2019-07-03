@@ -1,4 +1,4 @@
-package com.fly.leetcode.algorithm;
+package com.github.yafeiwang1240.algorithm;
 
 public class FindMedianSortedArrays {
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {

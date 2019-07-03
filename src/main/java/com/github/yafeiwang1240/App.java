@@ -1,6 +1,4 @@
-package com.fly.leetcode;
-
-import com.fly.leetcode.algorithm.TwoSum;
+package com.github.yafeiwang1240;
 
 /**
  * Hello world!

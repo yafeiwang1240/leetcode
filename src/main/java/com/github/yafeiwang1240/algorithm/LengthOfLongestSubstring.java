@@ -1,4 +1,4 @@
-package com.fly.leetcode.algorithm;
+package com.github.yafeiwang1240.algorithm;
 
 public class LengthOfLongestSubstring {
 
