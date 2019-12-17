@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9407f2aa-2ac8-44c0-a22a-44a014b127bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/Atoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/BracketsIsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/IsMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/SingleNumber3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/MyPow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/SingleNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/SingleNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/ZConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/ZConvert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/yafeiwang1240/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +197,8 @@
       <workItem from="1576255072638" duration="561000" />
       <workItem from="1576375174153" duration="755000" />
       <workItem from="1576461033685" duration="5094000" />
-      <workItem from="1576549626623" duration="12614000" />
+      <workItem from="1576549626623" duration="13164000" />
+      <workItem from="1576576907048" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode java实现">
       <created>1559881828193</created>
@@ -257,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568107025538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="解题更新">
+      <created>1576574880405</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576574880405</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +288,8 @@
     <MESSAGE value="排序数组中位数" />
     <MESSAGE value="github" />
     <MESSAGE value="pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom" />
+    <MESSAGE value="解题更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="解题更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="357" y="194" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1576140157082">
@@ -311,46 +304,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576550914226" />
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1576574878303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576574878303" />
     <state width="419" height="438" key="DebuggerActiveHint" timestamp="1576496299915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="419" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1576496299915" />
-    <state width="1237" height="341" key="GridCell.Tab.0.bottom" timestamp="1576570825871">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1576575397999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576570825871" />
-    <state width="1237" height="341" key="GridCell.Tab.0.center" timestamp="1576570825870">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1576575397999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.0.left" timestamp="1576570825870">
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1576575397999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.0.right" timestamp="1576570825870">
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1576575397999">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.1.bottom" timestamp="1576570825870">
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
+    <state width="1237" height="341" key="GridCell.Tab.1.bottom" timestamp="1576575397991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.1.center" timestamp="1576570825870">
+    <state width="1237" height="341" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
+    <state width="1237" height="341" key="GridCell.Tab.1.center" timestamp="1576575397991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.1.left" timestamp="1576570825870">
+    <state width="1237" height="341" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
+    <state width="1237" height="341" key="GridCell.Tab.1.left" timestamp="1576575397990">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
-    <state width="1237" height="341" key="GridCell.Tab.1.right" timestamp="1576570825870">
+    <state width="1237" height="341" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576575397990" />
+    <state width="1237" height="341" key="GridCell.Tab.1.right" timestamp="1576575397991">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576570825870" />
+    <state width="1237" height="341" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1576202262180">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576202262180" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1576574882553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576574882553" />
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1576549753427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
