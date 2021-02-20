@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9407f2aa-2ac8-44c0-a22a-44a014b127bb" name="Default Changelist" comment="">
+    <list default="true" id="9407f2aa-2ac8-44c0-a22a-44a014b127bb" name="Default Changelist" comment="解题更新">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/DoubleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/MinDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/NumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/algorithm/Traversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/yafeiwang1240/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -33,14 +46,12 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>liepin</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1PdozePrkKBS5dSAndQAFtbvRI1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,7 +61,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,9 +74,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.BracketsIsValid">
+  <component name="RunManager" selected="Application.SwapPairs">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.App" />
       <module name="leetcode" />
@@ -74,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BracketsIsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.BracketsIsValid" />
+    <configuration name="GetIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.GetIntersectionNode" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.IntToRoman" />
+    <configuration name="NumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.NumWays" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.LongestCommonPrefix" />
+    <configuration name="RightSideView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.RightSideView" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.MaxArea" />
+    <configuration name="SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.SwapPairs" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.RomanToInt" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yafeiwang1240.algorithm.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -139,13 +153,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.NumWays" />
+      <item itemvalue="Application.RightSideView" />
+      <item itemvalue="Application.GetIntersectionNode" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.SwapPairs" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BracketsIsValid" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.IntToRoman" />
-        <item itemvalue="Application.RomanToInt" />
-        <item itemvalue="Application.MaxArea" />
+        <item itemvalue="Application.SwapPairs" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.GetIntersectionNode" />
+        <item itemvalue="Application.RightSideView" />
+        <item itemvalue="Application.NumWays" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +219,19 @@
       <workItem from="1576461033685" duration="5094000" />
       <workItem from="1576549626623" duration="13164000" />
       <workItem from="1576576907048" duration="4017000" />
+      <workItem from="1576586009978" duration="782000" />
+      <workItem from="1576640616343" duration="797000" />
+      <workItem from="1576724816421" duration="57000" />
+      <workItem from="1584587392210" duration="1894000" />
+      <workItem from="1584602608643" duration="2368000" />
+      <workItem from="1584608685081" duration="1232000" />
+      <workItem from="1584621524987" duration="860000" />
+      <workItem from="1584670227630" duration="20335000" />
+      <workItem from="1584947219029" duration="19000" />
+      <workItem from="1584954579985" duration="1545000" />
+      <workItem from="1585015118618" duration="7025000" />
+      <workItem from="1585124389288" duration="660000" />
+      <workItem from="1613805966478" duration="11026000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode java实现">
       <created>1559881828193</created>
@@ -297,78 +332,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="解题更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="357" y="194" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1576140157082">
+    <state x="397" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1613819841010">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="357" y="194" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1280.680@0.0.1280.680" timestamp="1576140157082" />
-    <state x="385" y="176" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1576148285664">
+    <state x="397" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1613819841010" />
+    <state x="396" y="43" key="#xdebugger.evaluate" timestamp="1613820385076">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="385" y="176" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1576148285664" />
-    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1576550914226">
+    <state x="396" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1613820385076" />
+    <state width="407" height="466" key="DebuggerActiveHint" timestamp="1613820341900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576550914226" />
-    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1576583522290">
+    <state width="407" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1613820341900" />
+    <state width="1237" height="109" key="GridCell.Tab.0.bottom" timestamp="1613820371365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1576583522290" />
-    <state width="419" height="438" key="DebuggerActiveHint" timestamp="1576496299915">
+    <state width="1237" height="109" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613820371365" />
+    <state width="1237" height="109" key="GridCell.Tab.0.center" timestamp="1613820371365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="419" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1576496299915" />
-    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1576575397999">
+    <state width="1237" height="109" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613820371365" />
+    <state width="1237" height="109" key="GridCell.Tab.0.left" timestamp="1613820371365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
-    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1576575397999">
+    <state width="1237" height="109" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613820371365" />
+    <state width="1237" height="109" key="GridCell.Tab.0.right" timestamp="1613820371365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
-    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1576575397999">
+    <state width="1237" height="109" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613820371365" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1613806877244">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
-    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1576575397999">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1613806877244" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1613813959795">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576575397999" />
-    <state width="1237" height="341" key="GridCell.Tab.1.bottom" timestamp="1576575397991">
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1613813959795" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1613814503924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
-    <state width="1237" height="341" key="GridCell.Tab.1.center" timestamp="1576575397991">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
-    <state width="1237" height="341" key="GridCell.Tab.1.left" timestamp="1576575397990">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576575397990" />
-    <state width="1237" height="341" key="GridCell.Tab.1.right" timestamp="1576575397991">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="341" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576575397991" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1576202262180">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576202262180" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1576583528271">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1576583528271" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1576549753427">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576549753427" />
-    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576586163690">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1576586163690" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576551653919">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576551653919" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1613814503924" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
