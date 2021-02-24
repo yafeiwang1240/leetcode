@@ -7,9 +7,8 @@ import java.lang.reflect.Parameter;
 
 /**
  * Hello world!
- *
  */
-public class App 
+public class App
 {
     public static void main( String[] args ) throws NoSuchFieldException, IllegalAccessException, NoSuchMethodException, UnsupportedEncodingException {
         byte[] bytes = new byte[]{50, 0, -1, 28, -24};
