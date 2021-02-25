@@ -30,13 +30,13 @@ public class HIndex2 {
             if (citations.length - i >= citations[i]) {
                 h = citations[i];
             } else {
-                h = h > citations.length - i ? h : citations.length - i;
+                return h > citations.length - i ? h : citations.length - i;
             }
         }
         return h;
     }
 
     public static void main(String[] args) {
-        System.out.println(hIndex(new int[]{0,1,3,5,6,7,8}));
+        System.out.println(hIndex(new int[]{0,1,2,3,4,4,4,4,4,5,6,7,8}));
     }
 }
